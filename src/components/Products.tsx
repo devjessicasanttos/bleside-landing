@@ -9,21 +9,21 @@ const carnivalProducts = [
     originalPrice: "R$ 99,90", 
     price: "R$ 46,90", 
     tag: "Oferta",
-    videoUrl: "/public/conjunto.mp4"
+    videoUrl: "/conjunto.mp4"
   },
   { 
     name: "3 Shorts Plus", 
     originalPrice: "R$ 149,90", 
     price: "R$ 99,90", 
     tag: "Destaque",
-    videoUrl: "/public/3shortsplus.mp4"
+    videoUrl: "/3shortsplus.mp4"
   },
   { 
     name: "Conjunto Short Saia com Colete", 
     originalPrice: "R$ 99,90", 
     price: "R$ 54,90", 
     tag: "Trend",
-    videoUrl: "/public/conjshortsaia.mp4"
+   videoUrl: "/conjshortsaia.mp4"
   },
 ];
 
