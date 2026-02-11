@@ -1,6 +1,6 @@
 import { MessageCircle } from "lucide-react";
 
-const WHATSAPP_URL = "https://wa.me/5500000000000?text=Olá! Vim pelo site da Bleside e gostaria de saber mais!";
+const WHATSAPP_URL = "https://wa.me/5511973366889?text=Olá! Vim pelo site da Bleside e gostaria de saber mais!";
 
 const WhatsAppFAB = () => {
   return (

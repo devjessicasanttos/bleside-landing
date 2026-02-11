@@ -75,7 +75,7 @@ const CarnivalSpecial = () => {
                 
                 <Button asChild className="w-full py-6 text-md font-bold gap-2 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 transition-all">
                   <a 
-                    href={`${WHATSAPP_URL}${p.name}`} 
+                    href={`${ "https://wa.me/5511973366889?text=Olá! Tenho interesse nesse produto!"}${p.name}`} 
                     target="_blank" 
                     rel="noopener noreferrer"
                   >
