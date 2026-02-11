@@ -9,7 +9,7 @@ const carnivalProducts = [
     originalPrice: "R$ 99,90", 
     price: "R$ 46,90", 
     tag: "Oferta",
-    videoUrl: "/public/conjunto.mp4" // Substitua pelos seus caminhos
+    videoUrl: "/public/conjunto.mp4"
   },
   { 
     name: "3 Shorts Plus", 
